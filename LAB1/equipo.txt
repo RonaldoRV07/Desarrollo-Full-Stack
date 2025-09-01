@@ -1,0 +1,5 @@
+Integrantes del grupo:
+- Marlon Carrasco: Se encargo del Backend 
+- Stefano Aranao
+- Gonzalo
+- Ronaldo
